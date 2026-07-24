@@ -1,0 +1,166 @@
+{
+  "Fungal infection": {
+    "description": "A fungal infection occurs when a fungus invades body tissue. Common types include ringworm, athlete's foot, and nail infections.",
+    "precautions": ["Keep skin clean and dry", "Avoid sharing personal items", "Use antifungal creams", "Wear breathable clothing"]
+  },
+  "Allergy": {
+    "description": "An allergy is an immune system response to a foreign substance that is typically harmless to most people.",
+    "precautions": ["Identify and avoid allergens", "Carry prescribed antihistamines", "Use air purifiers indoors", "Consult an allergist"]
+  },
+  "GERD": {
+    "description": "Gastroesophageal reflux disease (GERD) is a chronic condition where stomach acid frequently flows back into the esophagus.",
+    "precautions": ["Avoid spicy and fatty foods", "Eat smaller meals", "Do not lie down after eating", "Maintain healthy weight"]
+  },
+  "Chronic cholestasis": {
+    "description": "A condition where bile flow from the liver is reduced or blocked, causing bile to build up in the liver.",
+    "precautions": ["Avoid alcohol", "Follow a low-fat diet", "Take prescribed medications", "Monitor liver function regularly"]
+  },
+  "Drug Reaction": {
+    "description": "An adverse drug reaction is an undesired harmful effect resulting from the use of a medication.",
+    "precautions": ["Stop the suspected drug immediately", "Consult a doctor", "Carry a list of drug allergies", "Report reaction to a physician"]
+  },
+  "Peptic ulcer disease": {
+    "description": "Open sores that develop on the inner lining of the stomach and the upper part of the small intestine.",
+    "precautions": ["Avoid NSAIDs and aspirin", "Limit alcohol and smoking", "Eat smaller, frequent meals", "Take antacids as prescribed"]
+  },
+  "AIDS": {
+    "description": "Acquired Immunodeficiency Syndrome (AIDS) is a chronic, life-threatening condition caused by the HIV virus.",
+    "precautions": ["Follow antiretroviral therapy", "Practice safe sex", "Avoid sharing needles", "Regular medical check-ups"]
+  },
+  "Diabetes": {
+    "description": "A metabolic disease that causes high blood sugar due to insufficient insulin production or ineffective insulin use.",
+    "precautions": ["Monitor blood sugar regularly", "Follow a balanced diet", "Exercise regularly", "Take prescribed medications"]
+  },
+  "Gastroenteritis": {
+    "description": "Inflammation of the stomach and intestines, typically resulting in vomiting, diarrhea, and abdominal cramps.",
+    "precautions": ["Stay hydrated with ORS", "Avoid solid food initially", "Wash hands frequently", "Avoid dairy until recovered"]
+  },
+  "Bronchial Asthma": {
+    "description": "A condition where airways narrow, swell, and produce extra mucus, making breathing difficult.",
+    "precautions": ["Carry rescue inhaler", "Avoid known triggers", "Monitor peak flow", "Follow an asthma action plan"]
+  },
+  "Hypertension": {
+    "description": "High blood pressure is a common condition where the long-term force of blood against artery walls is high enough to cause health problems.",
+    "precautions": ["Reduce salt intake", "Exercise regularly", "Limit alcohol", "Monitor blood pressure at home"]
+  },
+  "Migraine": {
+    "description": "A neurological condition characterized by intense, debilitating headaches often accompanied by nausea and sensitivity to light.",
+    "precautions": ["Identify and avoid triggers", "Stay hydrated", "Maintain regular sleep schedule", "Use prescribed pain relief"]
+  },
+  "Cervical spondylosis": {
+    "description": "Age-related wear and tear affecting the spinal disks in the neck, causing neck pain and stiffness.",
+    "precautions": ["Practice good posture", "Do neck exercises", "Use ergonomic furniture", "Apply heat or cold packs"]
+  },
+  "Paralysis (brain hemorrhage)": {
+    "description": "Loss of muscle function due to bleeding in the brain which damages nerve cells.",
+    "precautions": ["Immediate medical attention", "Physical therapy", "Control blood pressure", "Regular neurological check-ups"]
+  },
+  "Jaundice": {
+    "description": "A condition causing yellowing of the skin and eyes due to excess bilirubin in the blood.",
+    "precautions": ["Avoid fatty foods", "Stay hydrated", "Rest adequately", "Avoid alcohol completely"]
+  },
+  "Malaria": {
+    "description": "A serious disease caused by parasites transmitted through mosquito bites, causing fever and chills.",
+    "precautions": ["Use mosquito nets and repellents", "Take antimalarial medication", "Wear protective clothing", "Eliminate standing water"]
+  },
+  "Chicken pox": {
+    "description": "A highly contagious viral infection causing an itchy blister-like rash on the skin.",
+    "precautions": ["Stay isolated", "Avoid scratching blisters", "Apply calamine lotion", "Get vaccinated (prevention)"]
+  },
+  "Dengue": {
+    "description": "A mosquito-borne viral disease causing high fever, severe headache, and joint pain.",
+    "precautions": ["Use mosquito repellent", "Wear full-sleeve clothing", "Stay hydrated", "Monitor platelet count"]
+  },
+  "Typhoid": {
+    "description": "A bacterial infection that spreads through contaminated food and water, causing high fever and abdominal pain.",
+    "precautions": ["Drink boiled or bottled water", "Eat properly cooked food", "Maintain hand hygiene", "Get vaccinated"]
+  },
+  "Hepatitis A": {
+    "description": "A highly contagious liver infection caused by the Hepatitis A virus, spread through contaminated food and water.",
+    "precautions": ["Get vaccinated", "Wash hands thoroughly", "Avoid raw or undercooked food", "Drink clean water only"]
+  },
+  "Hepatitis B": {
+    "description": "A liver infection caused by the Hepatitis B virus, spread through blood and body fluids.",
+    "precautions": ["Get vaccinated", "Use protection during intercourse", "Avoid sharing needles", "Regular liver monitoring"]
+  },
+  "Hepatitis C": {
+    "description": "A viral infection that causes liver inflammation, transmitted primarily through blood contact.",
+    "precautions": ["Avoid sharing needles", "Use protective equipment", "Get regular blood tests", "Follow prescribed antiviral therapy"]
+  },
+  "Hepatitis D": {
+    "description": "A liver infection only occurring in people infected with Hepatitis B, often causing more severe disease.",
+    "precautions": ["Get Hepatitis B vaccination", "Avoid sharing needles", "Practice safe sex", "Regular liver monitoring"]
+  },
+  "Hepatitis E": {
+    "description": "A liver disease caused by the Hepatitis E virus, usually spread through contaminated drinking water.",
+    "precautions": ["Drink clean water", "Avoid raw pork and shellfish", "Maintain good hygiene", "Rest adequately"]
+  },
+  "Alcoholic hepatitis": {
+    "description": "Liver inflammation caused by excessive alcohol consumption over time.",
+    "precautions": ["Stop drinking alcohol immediately", "Follow a nutritious diet", "Take prescribed medications", "Attend support groups"]
+  },
+  "Tuberculosis": {
+    "description": "A serious bacterial infection that mainly affects the lungs and can spread through airborne droplets.",
+    "precautions": ["Complete the full antibiotic course", "Cover mouth when coughing", "Improve ventilation at home", "Regular follow-up with doctor"]
+  },
+  "Common Cold": {
+    "description": "A viral infection of the upper respiratory tract causing runny nose, sore throat, and mild fever.",
+    "precautions": ["Rest and stay hydrated", "Wash hands frequently", "Avoid close contact with others", "Use saline nasal spray"]
+  },
+  "Pneumonia": {
+    "description": "An infection that inflames air sacs in one or both lungs, which may fill with fluid.",
+    "precautions": ["Get vaccinated", "Rest and take prescribed antibiotics", "Stay hydrated", "Avoid smoking"]
+  },
+  "Dimorphic hemorrhoids (piles)": {
+    "description": "Swollen veins in the lowest part of the rectum and anus causing discomfort and bleeding.",
+    "precautions": ["Eat high-fiber diet", "Stay hydrated", "Avoid straining during bowel movements", "Take sitz baths"]
+  },
+  "Heart attack": {
+    "description": "Occurs when blood flow to part of the heart is blocked, causing damage to heart muscle.",
+    "precautions": ["Call emergency services immediately", "Chew aspirin if not allergic", "Avoid physical exertion", "Follow cardiac rehabilitation"]
+  },
+  "Varicose veins": {
+    "description": "Enlarged, twisted veins usually appearing on the legs due to faulty valves allowing blood to pool.",
+    "precautions": ["Exercise regularly", "Elevate legs when resting", "Avoid prolonged standing", "Wear compression stockings"]
+  },
+  "Hypothyroidism": {
+    "description": "A condition where the thyroid gland does not produce enough thyroid hormone, slowing bodily functions.",
+    "precautions": ["Take prescribed thyroid medication", "Regular thyroid function tests", "Eat iodine-rich foods", "Avoid soy products in excess"]
+  },
+  "Hyperthyroidism": {
+    "description": "A condition where the thyroid gland produces too much thyroid hormone, accelerating metabolism.",
+    "precautions": ["Take prescribed antithyroid medication", "Avoid iodine-rich foods", "Reduce stress", "Regular thyroid monitoring"]
+  },
+  "Hypoglycemia": {
+    "description": "A condition where blood sugar levels drop below normal, causing shakiness, confusion, and weakness.",
+    "precautions": ["Carry glucose tablets or juice", "Eat regular meals", "Monitor blood sugar frequently", "Inform family about symptoms"]
+  },
+  "Osteoarthritis": {
+    "description": "A degenerative joint disease that occurs when the protective cartilage on the ends of bones wears down.",
+    "precautions": ["Maintain healthy weight", "Do low-impact exercises", "Use joint supports", "Take prescribed pain relief"]
+  },
+  "Arthritis": {
+    "description": "Inflammation of one or more joints causing pain and stiffness that can worsen with age.",
+    "precautions": ["Exercise regularly", "Maintain healthy weight", "Apply hot and cold packs", "Take prescribed anti-inflammatory medication"]
+  },
+  "(Vertigo) Paroxysmal Positional Vertigo": {
+    "description": "A sudden sensation that you are spinning, caused by calcium crystals dislodging in the inner ear.",
+    "precautions": ["Perform Epley maneuver", "Avoid sudden head movements", "Sleep with head slightly elevated", "Consult an ENT specialist"]
+  },
+  "Acne": {
+    "description": "A skin condition that occurs when hair follicles become plugged with oil and dead skin cells.",
+    "precautions": ["Wash face twice daily", "Avoid touching face", "Use non-comedogenic products", "Consult a dermatologist for severe cases"]
+  },
+  "Urinary tract infection": {
+    "description": "An infection in any part of the urinary system, usually caused by bacteria entering the urethra.",
+    "precautions": ["Drink plenty of water", "Urinate after intercourse", "Wipe front to back", "Take prescribed antibiotics completely"]
+  },
+  "Psoriasis": {
+    "description": "A chronic skin disease causing cells to build up rapidly on the skin surface, forming scales and red patches.",
+    "precautions": ["Moisturize skin regularly", "Avoid skin trauma", "Reduce stress", "Follow prescribed topical or systemic treatment"]
+  },
+  "Impetigo": {
+    "description": "A highly contagious bacterial skin infection causing red sores that rupture and crust over.",
+    "precautions": ["Keep sores clean and covered", "Wash hands frequently", "Do not share towels or clothing", "Apply prescribed antibiotic cream"]
+  }
+}
