@@ -36,7 +36,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",
-        "https://your-app.vercel.app",  # add this
+        "https://medical-symptom-predictor.vercel.app",  # add this
     ],
     allow_methods=["GET", "POST"],
     allow_headers=["*"],
