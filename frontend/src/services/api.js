@@ -8,7 +8,7 @@ const api = axios.create({
 
 export async function fetchSymptoms() {
   const res = await api.get('/symptoms')
-  return res.data.symptoms  // string[]
+  return res.data.symptoms
 }
 
 export async function predictDisease(symptoms) {
